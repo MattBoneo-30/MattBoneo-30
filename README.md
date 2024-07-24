@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2 align="center" margin="2px"> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/notion/notion-original.svg" alt="notation" width="45" height="45"/>
