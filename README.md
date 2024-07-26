@@ -54,5 +54,5 @@ Here are some ideas to get you started:
             <p>Created By:</p><a href="https://www.facebook.com/Xgods.soldierX?mibextid=ZbWKwL" class="botton red-botton">Matt Boneo</a>
             </div>
        
-
+</section>
 
