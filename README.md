@@ -1,3 +1,8 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
 ## Hi there 👋
 
 <p> Hello! My name is <a href="https://www.facebook.com/Xgods.soldierX/">Matt Boneo</a>, ​and I am an enthusiastic and ​dedicated IT student currently ​pursuing a Bachelor of Science ​in Information Technology ​(BSIT) Major in Information ​Management (IM). My passion ​for technology and innovation ​drives me to continuously learn ​and explore new areas within ​the IT field. 
