@@ -38,5 +38,21 @@ Here are some ideas to get you started:
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
 </p>
 
+<section class="footer">
+            <h4>About Us</h4>
+            <p>We definitely give you our best of the best products and service.</p>
+           
+            <div class="icons">
+                <i class="fa fa-facebook"></i></a>
+                <i class="fa fa-twitter"></i>
+                <i class="fa fa-instagram"></i>
+                <i class="fa fa-google"></i>
+                <i class="fa fa-telegram"></i>
+                <i class="fa fa-circle"></i>
+            </div>
+           <div class="fb">
+            <p>Created By:</p><a href="https://www.facebook.com/Xgods.soldierX?mibextid=ZbWKwL" class="botton red-botton">Matt Boneo</a>
+            </div>
+       
 
 
