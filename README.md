@@ -32,4 +32,27 @@ Here are some ideas to get you started:
 
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/> -->
 </p>
-        
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattBoneo-30&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="edillormar2" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-30&&theme=tokyonight" alt="edillor" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MattBoneo-30&show_icons=true&locale=en&theme=tokyonight" alt="edillormar2" />
+    </td>
+    <td>
+      <a href="https://wakatime.com/@mattboneo">
+        <img src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=mMattBoneo-30&layout=compact&theme=tokyonight&hide_border=false&custom_title=Time%20Spent%20in%20Languages" alt="WakaTime Stats" />
+      </a>
+    </td>
+  </tr>
+</table>
