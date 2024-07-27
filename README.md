@@ -40,15 +40,15 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattBoneo-30&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="edillormar2" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattBoneo-30&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Matt Boneo" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-30&&theme=tokyonight" alt="edillor" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-30&&theme=tokyonight" alt="Matt Boneo" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MattBoneo-30&show_icons=true&locale=en&theme=tokyonight" alt="edillormar2" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MattBoneo-30&show_icons=true&locale=en&theme=tokyonight" alt="Matt Boneo" />
     </td>
     <td>
       <a href="https://wakatime.com/@mattboneo">
