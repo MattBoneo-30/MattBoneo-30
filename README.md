@@ -52,7 +52,7 @@ Here are some ideas to get you started:
     </td>
     <td>
       <a href="https://wakatime.com/@mattboneo">
-        <img src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=@mattboneo&layout=compact&theme=tokyonight&hide_border=false&custom_title=Time%20Spent%20in%20Languages" alt="WakaTime Stats" />
+        <img src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=@&layout=compact&theme=tokyonight&hide_border=false&custom_title=Time%20Spent%20in%20Languages" alt="WakaTime Stats" />
       </a>
     </td>
   </tr>
