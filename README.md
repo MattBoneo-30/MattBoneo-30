@@ -67,3 +67,6 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/MattBoneo-30"><img alt="Matt Boneo's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MattBoneo-30&theme=react-dark" /><a>
 </p>
+
+<!-- Footer -->
+<img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Footer.jpg">
