@@ -54,6 +54,7 @@ Here are some ideas to get you started:
       <a href="https://wakatime.com/@mattboneo">
         <img src="https://github-readme-stats-pyromagnes-projects.vercel.app/api/wakatime?username=@mattboneo&layout=compact&theme=tokyonight&hide_border=false&custom_title=Time%20Spent%20in%20Languages" alt="WakaTime Stats" />
       </a>
+      <a href="https://github.com/MattBoneo-30/github-readme-activity-graph"><img alt="Matt Boneo's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MattBoneo-30&theme=react-dark" /><a>
     </td>
   </tr>
 </table>
