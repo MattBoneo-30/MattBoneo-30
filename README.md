@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 
 <!-- Matt Boneo's Activity Graph -->
 <p align="center">
-  <a href="https://github.com/MattBoneo-30/github-readme-activity-graph"><img alt="Matt Boneo's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MattBoneo-30&theme=react-dark" /><a>
+  <a href="https://github.com/MattBoneo-30"><img alt="Matt Boneo's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MattBoneo-30&theme=react-dark" /><a>
 </p>
