@@ -65,13 +65,19 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<!-- End page -->
-
 
 <!-- Matt Boneo's Activity Graph -->
 <p align="center">
   <a href="https://github.com/MattBoneo-30"><img alt="Matt Boneo's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=MattBoneo-30&theme=react-dark" /><a>
 </p>
 
+
+<h2 align="center"> GitHub Profile Trophy 🏆</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MattBoneo-30)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Footer -->
 <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Footer.jpg">
+
+
+<!-- Matt Boneo -->
