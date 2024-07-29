@@ -1,9 +1,9 @@
-## Hi there <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Hi.gif" height="30px">
-
+## Hi there <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Hi.gif" height="30px"> <img src="https://komarev.com/ghpvc/?username=MattBoneo-30&label=Profile%20views&color=0e75b6&style=flat" alt="Matt Boneo" align='right'/>
 
 <!--👋-->
 
 <p> Hello! My name is <a href="https://www.facebook.com/Xgods.soldierX/">Matt Boneo</a>, ​and I am an enthusiastic and ​dedicated IT student currently ​pursuing a Bachelor of Science ​in Information Technology ​(BSIT) Major in Information ​Management (IM). My passion ​for technology and innovation ​drives me to continuously learn ​and explore new areas within ​the IT field. 
+
 </p>
 
 <!--
