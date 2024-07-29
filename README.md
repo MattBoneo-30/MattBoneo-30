@@ -65,6 +65,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+<!-- End page -->
+
 
 <!-- Matt Boneo's Activity Graph -->
 <p align="center">
