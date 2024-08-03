@@ -40,7 +40,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattBoneo-30&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Matt Boneo" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-30&&theme=tokyonight" alt="Matt Boneo streak stats" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-0&&theme=tokyonight" alt="Matt Boneo streak stats" />
     </td>
   </tr>
   <tr>
