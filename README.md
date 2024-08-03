@@ -40,12 +40,12 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MattBoneo-30&show_icons=true&locale=en&layout=compact&theme=tokyonight&amp;hide_border=false&card_width=500" alt="Matt Boneo" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-30&&theme=tokyonight" alt="Matt Boneo" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=MattBoneo-30&&theme=tokyonight" alt="Matt Boneo streak stats" />
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MattBoneo-30&show_icons=true&locale=en&theme=tokyonight" alt="Matt Boneo" />
+      <img src="https://github-readme-stats.vercel.app/api?username=MattBoneo-30&show_icons=true&locale=en&theme=tokyonight" alt="Matt Boneo stats vercel" />
     </td>
     <td>
       <a href="https://wakatime.com/@mattboneo">
@@ -67,7 +67,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MattBoneo-30&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- Footer -->
-<img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Footer.jpg">
+<img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Footer.jpg" alt='Trophy'>
 
 
 <!-- Matt Boneo (MattBoneo-30)-->
