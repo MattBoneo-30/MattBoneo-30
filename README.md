@@ -32,7 +32,6 @@
 
 #
 
-
 <!-- Matt Boneo's Stats -->
 <h2 align="center"> 📈 &nbsp; Stats</h2>
 
