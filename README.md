@@ -39,7 +39,13 @@
 #
 
 <!-- Matt Boneo's Stats -->
-## 📈 &nbsp; Stats <a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" align='right'/>
+<h2 align="center" style="margin-top: 3px; margin-bottom: 3px;">📈 &nbsp; Stats </h2>
+
+
+
+
+<a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" align='right' margin-top='10px'/>
+&nbsp;
 
 <table>
   <tr>
