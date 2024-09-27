@@ -14,10 +14,10 @@
 
 <!-- Short Introduction -->
 <p> 
-  Hello! My name is <a href="https://www.facebook.com/Xgods.soldierX/">Matt Boneo</a>, ​and I am an enthusiastic and ​dedicated IT student currently ​pursuing a Bachelor of Science ​in Information Technology ​(BSIT) Major in Information ​Management (IM). My passion ​for technology and innovation ​drives me to continuously learn ​and explore new areas within ​the IT field. 
+  Hello! My name is <a href="https://www.facebook.com/Xgods.soldierX/">Matt Boneo</a>, ​and I am an enthusiastic and ​dedicated IT student currently ​pursuing a Bachelor of Science ​in Information Technology ​(BSIT) Major in Information ​Management (IM). My passion ​for technology and innovation ​drives me to continuously learn ​and explore new areas within ​the IT field.
 </p>
 
-![WakaTime Status](https://github-readme-status.vercel.app/api/wakatime?username=MattBoneo-30)
+
 
 <!-- Matt Boneo's Tools and Languages  -->
 <hr>
@@ -38,7 +38,7 @@
 #
 
 <!-- Matt Boneo's Stats -->
-<h2 align="center"> 📈 &nbsp; Stats</h2>
+<h2 align="center"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 📈 &nbsp; Stats <a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" align='right'/></h2>
 
 <table>
   <tr>
