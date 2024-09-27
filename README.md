@@ -43,9 +43,8 @@
 
 
 
-
-<a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" align='right' margin-top='10px'/>
-&nbsp;
+<p align="center" style="margin-top: 10px;">
+<a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9" ><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" /></a></p>
 
 <table>
   <tr>
