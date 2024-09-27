@@ -17,6 +17,8 @@
   Hello! My name is <a href="https://www.facebook.com/Xgods.soldierX/">Matt Boneo</a>, ​and I am an enthusiastic and ​dedicated IT student currently ​pursuing a Bachelor of Science ​in Information Technology ​(BSIT) Major in Information ​Management (IM). My passion ​for technology and innovation ​drives me to continuously learn ​and explore new areas within ​the IT field. 
 </p>
 
+![WakaTime Status](https://github-readme-status.vercel.app/api/wakatime?username=MattBoneo-30)
+
 <!-- Matt Boneo's Tools and Languages  -->
 <hr>
 <h2 align="center" margin-top: 3px;> 🚀 &nbsp;Tools and Languages</h2>
