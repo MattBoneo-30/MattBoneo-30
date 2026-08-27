@@ -9,7 +9,9 @@
 
 
 <!-- ## Hi / Gif -->  
-<h1> Hi there <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Hi.gif" height="30px"> <img src="https://komarev.com/ghpvc/?username=MattBoneo-30&label=Profile%20views&color=0e75b6&style=flat" alt="Matt Boneo" align='right'/> </h1>
+<h1> Hi there <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Hi.gif" height="30px"> 
+  <img src="https://komarev.com/ghpvc/?username=MattBoneo-30&label=Profile%20views&color=0e75b6&style=flat" alt="Matt Boneo" align='right'/>
+  <img src="https://img.shields.io/badge/Matt-Boneo-black" alt="Matt Boneo" align="right"/> </h1>
 
 <!--👋 -->
 
@@ -33,7 +35,7 @@
   <a href="https://www.facebook.com/mattboneo">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE">
+  <a href="https://www.instagram.com/m.boneo_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE">
@@ -83,7 +85,7 @@
 <h2>📈 Stats <a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" align="right"/></a> </h2>
  
 <p align="center">
-  <a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" /></a>
+ <!-- <a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" /></a> -->
 </p>
 <div align="center">
   <a href="https://github.com/MattBoneo-30">
@@ -107,7 +109,9 @@
 
 
 <!-- Footer -->
-<img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Footer.jpg" alt='Trophy'>
+<img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Footer.jpg" alt='Footer'>
+
+
 
 
 <!-- Matt Boneo (MattBoneo-30)-->
