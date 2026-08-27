@@ -8,13 +8,13 @@
 <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/MBoneo.png">
 
 
-<!-- Hi / Gif -->  
-## Hi there <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Hi.gif" height="10px"> <img src="https://komarev.com/ghpvc/?username=MattBoneo-30&label=Profile%20views&color=0e75b6&style=flat" alt="Matt Boneo" align='right'/>
+<!-- ## Hi / Gif -->  
+<h1> Hi there <img src="https://github.com/MattBoneo-30/MattBoneo-30/blob/main/Hi.gif" height="30px"> <img src="https://komarev.com/ghpvc/?username=MattBoneo-30&label=Profile%20views&color=0e75b6&style=flat" alt="Matt Boneo" align='right'/> </h1>
 
 <!--👋 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Web+%26+App+Developer;Graphic+Designer;BSIT+-+Information+Management+Graduate;Turning+Ideas+Into+Interfaces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Web+Developer;Graphic+Designer;BSIT+-+Information+Management+Graduate;Lifelong+Learner" alt="Typing SVG" /> <!--Turning+Ideas+Into+Interfaces -->
 </p>
 
 <!-- About Me - Short Introduction -->
@@ -23,6 +23,9 @@
 </p>
 
 &nbsp;
+
+
+<!-- Matt Boneo's Socials -->
 
 <p align="center">
   <a href="https://www.facebook.com/Xgods.soldierX/">
@@ -44,7 +47,6 @@
 
 
 <!-- Matt Boneo's Tools and Languages  -->
-<!-- Tools and Languages -->
 
 <h2 align="center">🚀 Tools &amp; Languages</h2>
 
@@ -76,7 +78,6 @@
 
 <!-- Matt Boneo's Stats -->
 
-<!-- Stats -->
 <h2>📈 Stats <a href="https://wakatime.com/@4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9"><img src="https://wakatime.com/badge/user/4afe44f7-a085-44ed-9d6f-0bb4e0bffcf9.svg" alt="Total time coded since Jul 27 2024" align="right"/></a> </h2>
  
 <p align="center">
