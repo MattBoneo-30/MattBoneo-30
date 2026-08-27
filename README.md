@@ -14,12 +14,14 @@
 <!--👋 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Web+Developer;Graphic+Designer;BSIT+-+Information+Management+Graduate;Lifelong+Learner" alt="Typing SVG" /> <!--Turning+Ideas+Into+Interfaces -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Web+Developer;Graphic+Designer;BSIT+-+Information+Management+Graduate;Lifelong+Learner;" alt="Typing SVG" /> 
 </p>
+
+<!--Turning+Ideas+Into+Interfaces -->
 
 <!-- About Me - Short Introduction -->
 <p>
-  I'm <a href="https://www.facebook.com/Xgods.soldierX/">Matt Boneo</a>, a graduate of Bachelor of Science in Information Technology (BSIT), Major in Information Management (IM). I build web and mobile applications and enjoy shaping how they look through graphic design — I like owning a project end-to-end, from the interface down to the code that runs it.
+  I'm <a href="https://www.facebook.com/mattboneo">Matt Boneo</a>, a graduate of Bachelor of Science in Information Technology (BSIT), Major in Information Management (IM). I build web and mobile applications and enjoy shaping how they look through graphic design — I like owning a project end-to-end, from the interface down to the code that runs it.
 </p>
 
 &nbsp;
@@ -28,7 +30,7 @@
 <!-- Matt Boneo's Socials -->
 
 <p align="center">
-  <a href="https://www.facebook.com/Xgods.soldierX/">
+  <a href="https://www.facebook.com/mattboneo">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>&nbsp;
   <a href="https://www.instagram.com/YOUR_INSTAGRAM_HANDLE">
